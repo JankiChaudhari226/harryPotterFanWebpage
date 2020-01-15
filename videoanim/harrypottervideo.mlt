@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="en_CA" version="6.13.0" title="Shotcut version 19.02.28" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/warnerbrothers.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a7071f7fa2091f3a6eba0b6e537821ab</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/harrypotterforvideo.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">78fa42ccde07f4ce1a822deb5691cd83</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/harrypottercharacter.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">460b2e84265d8837ed655abcc3c46e84</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/hermionegrangerposter.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6b04c07f4f8736ea49c4db4c0915cce8</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/ronweasleycharacter.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f3081271a136c3fdb4e07d239ce41823</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/dumbledore.JPG</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">10a6f34bd10a35f2353fcadf8a9d2b3e</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/voldemont.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bad0f4c23d12a76b37c45527b8937150</property>
+  </producer>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="00:05:07.640">
+    <property name="length">7692</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/Harry Potter Theme Song.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2e0683ea1a0d9e1161d03a4b720b8d6</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 19.02.28">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:05:07.640"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:18.480">
+    <property name="length">463</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:18.480"/>
+  </playlist>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/harrypotterforvideo.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">78fa42ccde07f4ce1a822deb5691cd83</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter0" out="00:00:03.960">
+      <property name="argument">Welcome to the wizarding world of Harry Potter </property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">IvyMode SemiBold Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/harrypottercharacter.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">460b2e84265d8837ed655abcc3c46e84</property>
+    <filter id="filter1" out="00:00:03.960">
+      <property name="argument">Starring Daniel Redcliff as Harry Potter </property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">IvyMode SemiBold Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.480">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer11" in="00:00:03.480" out="00:00:03.960"/>
+    <track producer="producer7" in="00:00:00.000" out="00:00:00.480"/>
+    <transition id="transition0" out="00:00:00.480">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma03.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.480">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/hermionegrangerposter.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6b04c07f4f8736ea49c4db4c0915cce8</property>
+    <filter id="filter2" out="00:00:03.960">
+      <property name="argument">Starring Emma Watson as Hermione Granger </property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">IvyMode SemiBold Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.640">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer7" in="00:00:02.560" out="00:00:03.200"/>
+    <track producer="producer8" in="00:00:00.000" out="00:00:00.640"/>
+    <transition id="transition2" out="00:00:00.640">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.640">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/ronweasleycharacter.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f3081271a136c3fdb4e07d239ce41823</property>
+    <filter id="filter3" out="00:00:03.960">
+      <property name="argument">Starring Rupurt Grint as Ron Weasley </property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">IvyMode SemiBold Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor2" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.480">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer8" in="00:00:03.480" out="00:00:03.960"/>
+    <track producer="producer9" in="00:00:00.000" out="00:00:00.480"/>
+    <transition id="transition4" out="00:00:00.480">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma05.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.480">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/dumbledore.JPG</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">10a6f34bd10a35f2353fcadf8a9d2b3e</property>
+    <filter id="filter4" out="00:00:03.960">
+      <property name="argument">Also Starring Richard Harris as Albus Dumbledore</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">IvyMode SemiBold Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor3" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:01.000">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer9" in="00:00:02.960" out="00:00:03.960"/>
+    <track producer="producer12" in="00:00:00.000" out="00:00:01.000"/>
+    <transition id="transition6" out="00:00:01.000">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma18.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition7" out="00:00:01.000">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">360000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/voldemont.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bad0f4c23d12a76b37c45527b8937150</property>
+    <filter id="filter5" out="00:00:03.120">
+      <property name="argument">And Richard Bremmer as Lord Voldemont</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">IvyMode SemiBold Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">630</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor4" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:01.080">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer12" in="00:00:02.880" out="00:00:03.960"/>
+    <track producer="producer13" in="00:00:00.000" out="00:00:01.080"/>
+    <transition id="transition8" out="00:00:01.080">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma13.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition9" out="00:00:01.080">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.440"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.480"/>
+    <entry producer="producer7" in="00:00:00.520" out="00:00:02.520"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.640"/>
+    <entry producer="producer8" in="00:00:00.680" out="00:00:03.440"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.480"/>
+    <entry producer="producer9" in="00:00:00.520" out="00:00:02.920"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:01.000"/>
+    <entry producer="producer12" in="00:00:01.040" out="00:00:02.840"/>
+    <entry producer="tractor4" in="00:00:00.000" out="00:00:01.080"/>
+    <entry producer="producer13" in="00:00:01.120" out="00:00:03.120"/>
+  </playlist>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="00:05:07.640">
+    <property name="length">7692</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Janki Chaudhari/Documents/University/Freshman/Semester 2/Computer Science 1033/majorassignment/images/Harry Potter Theme Song.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e2e0683ea1a0d9e1161d03a4b720b8d6</property>
+    <property name="shotcut:caption">Harry Potter Theme Song.mp3</property>
+    <property name="shotcut:detail">C:\Users\Janki Chaudhari\Documents\University\Freshman\Semester 2\Computer Science 1033\majorassignment\images\Harry Potter Theme Song.mp3</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:18.480"/>
+  </playlist>
+  <tractor id="tractor5" title="Shotcut version 19.02.28" global_feed="1" in="00:00:00.000" out="00:00:18.480">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">1.5144</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
